@@ -1,0 +1,12 @@
+D:\@C#\VS\ConsoleTCPIP\ConsoleTCPIP\bin\Debug\ConsoleTCPIP.exe.config
+D:\@C#\VS\ConsoleTCPIP\ConsoleTCPIP\bin\Debug\ConsoleTCPIP.exe
+D:\@C#\VS\ConsoleTCPIP\ConsoleTCPIP\bin\Debug\ConsoleTCPIP.pdb
+D:\@C#\VS\ConsoleTCPIP\ConsoleTCPIP\obj\Debug\ConsoleTCPIP.csprojResolveAssemblyReference.cache
+D:\@C#\VS\ConsoleTCPIP\ConsoleTCPIP\obj\Debug\ConsoleTCPIP.exe
+D:\@C#\VS\ConsoleTCPIP\ConsoleTCPIP\obj\Debug\ConsoleTCPIP.pdb
+C:\Users\rshang\Desktop\TCPIP-for-LV-and-python-template-master\C#\ConsoleTCPIP\ConsoleTCPIP\bin\Debug\ConsoleTCPIP.exe.config
+C:\Users\rshang\Desktop\TCPIP-for-LV-and-python-template-master\C#\ConsoleTCPIP\ConsoleTCPIP\obj\Debug\ConsoleTCPIP.exe
+C:\Users\rshang\Desktop\TCPIP-for-LV-and-python-template-master\C#\ConsoleTCPIP\ConsoleTCPIP\obj\Debug\ConsoleTCPIP.pdb
+C:\Users\rshang\Desktop\TCPIP-for-LV-and-python-template-master\C#\ConsoleTCPIP\ConsoleTCPIP\bin\Debug\ConsoleTCPIP.exe
+C:\Users\rshang\Desktop\TCPIP-for-LV-and-python-template-master\C#\ConsoleTCPIP\ConsoleTCPIP\bin\Debug\ConsoleTCPIP.pdb
+C:\Users\rshang\Desktop\TCPIP-for-LV-and-python-template-master\C#\ConsoleTCPIP\ConsoleTCPIP\obj\Debug\ConsoleTCPIP.csprojResolveAssemblyReference.cache
